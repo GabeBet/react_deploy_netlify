@@ -1,7 +1,7 @@
 {
   "name": "01tut",
   "version": "0.1.0",
-  "homepage": "http://GabeBet.github.io/react_deploy_gh",
+  "homepage": "http://GabeBet.github.io/react_deploy_netlify",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
